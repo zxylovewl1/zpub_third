@@ -1,0 +1,498 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7b98d004-bb92-4923-bb22-285af62f9502" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/.dart_tool/" />
+    <ignored path="$PROJECT_DIR$/.idea/" />
+    <ignored path="$PROJECT_DIR$/.pub/" />
+    <ignored path="$PROJECT_DIR$/build/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="pubspec.yaml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pubspec.yaml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="288">
+              <caret line="16" column="1" selection-start-line="16" selection-start-column="1" selection-end-line="18" selection-end-column="54" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="162">
+              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>StateManager</find>
+      <find>Log</find>
+      <find>Log.isDebug</find>
+      <find>package:weui/weui</find>
+      <find>we</find>
+      <find>SQLiteConstant</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/lib/com/zerogis/zpubbase/manager/StateManager.dart" />
+        <option value="$PROJECT_DIR$/lib/com/zerogis/zpubbase/resource/ColorRes.dart" />
+        <option value="$PROJECT_DIR$/lib/com/zerogis/zpubbase/util/StringRes.dart" />
+        <option value="$PROJECT_DIR$/lib/com/zerogis/zpubbase/plugin/FuctionStateFulBase.dart" />
+        <option value="$PROJECT_DIR$/lib/com/zerogis/zpubbase/util/Log.dart" />
+        <option value="$PROJECT_DIR$/lib/com/zerogis/zpubbase/core/WidgetCreator.dart" />
+        <option value="$PROJECT_DIR$/lib/com/zerogis/zpubbase/core/SysWidgetCreator.dart" />
+        <option value="$PROJECT_DIR$/lib/com/zerogis/zpubbase/slot/factory/PluginsFactory.dart" />
+        <option value="$PROJECT_DIR$/lib/com/zerogis/zpubbase/slot/factory/WidgetsFactory.dart" />
+        <option value="$PROJECT_DIR$/lib/com/zerogis/zpubbase/slot/impl/InterfaceBaseImpl.dart" />
+        <option value="$PROJECT_DIR$/lib/com/zerogis/zpubbase/util/ArrayUtil.dart" />
+        <option value="$PROJECT_DIR$/lib/com/zerogis/zpubbase/util/AssetsUtil.dart" />
+        <option value="$PROJECT_DIR$/lib/com/zerogis/zpubbase/util/PickerUtil.dart" />
+        <option value="$PROJECT_DIR$/lib/com/zerogis/zpubbase/util/StringUtil.dart" />
+        <option value="$PROJECT_DIR$/lib/com/zerogis/zpubbase/util/TimeUtil.dart" />
+        <option value="$PROJECT_DIR$/lib/zpub_bas.dart" />
+        <option value="$PROJECT_DIR$/LICENSE" />
+        <option value="$PROJECT_DIR$/lib/zpub_att.dart" />
+        <option value="$PROJECT_DIR$/lib/com/zerogis/zpubthird/sqlite/SQLiteDBHelper.dart" />
+        <option value="$PROJECT_DIR$/lib/com/zerogis/zpubthird/sqlite/constant/SQLiteConfigConstant.dart" />
+        <option value="$PROJECT_DIR$/lib/com/zerogis/zpubthird/sqlite/DBCreateOrUpgradeMethod.dart" />
+        <option value="$PROJECT_DIR$/lib/com/zerogis/zpubthird/sqlite/SQLiteDBMethod.dart" />
+        <option value="$PROJECT_DIR$/lib/com/zerogis/zpubthird/sqlite/method/SQLiteDBMethod.dart" />
+        <option value="$PROJECT_DIR$/lib/com/zerogis/zpubthird/sqlite/method/DBCreateOrUpgradeMethod.dart" />
+        <option value="$PROJECT_DIR$/lib/zpub_third.dart" />
+        <option value="$PROJECT_DIR$/pubspec.yaml" />
+        <option value="$PROJECT_DIR$/README.md" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="279" />
+    <option name="y" value="209" />
+    <option name="width" value="1680" />
+    <option name="height" value="956" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="zpub_third" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zpub_third" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zpub_third" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zpub_third" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zpub_third" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zpub_third" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zpub_third" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zpub_third" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="zerogis" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zpub_third" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zpub_third" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="zerogis" type="462c0819:PsiDirectoryNode" />
+              <item name="zpubthird" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zpub_third" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zpub_third" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="zerogis" type="462c0819:PsiDirectoryNode" />
+              <item name="zpubthird" type="462c0819:PsiDirectoryNode" />
+              <item name="sqlite" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zpub_third" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zpub_third" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="zerogis" type="462c0819:PsiDirectoryNode" />
+              <item name="zpubthird" type="462c0819:PsiDirectoryNode" />
+              <item name="sqlite" type="462c0819:PsiDirectoryNode" />
+              <item name="bean" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zpub_third" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zpub_third" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="zerogis" type="462c0819:PsiDirectoryNode" />
+              <item name="zpubthird" type="462c0819:PsiDirectoryNode" />
+              <item name="sqlite" type="462c0819:PsiDirectoryNode" />
+              <item name="constant" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zpub_third" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zpub_third" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="zerogis" type="462c0819:PsiDirectoryNode" />
+              <item name="zpubthird" type="462c0819:PsiDirectoryNode" />
+              <item name="sqlite" type="462c0819:PsiDirectoryNode" />
+              <item name="exception" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zpub_third" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zpub_third" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="zerogis" type="462c0819:PsiDirectoryNode" />
+              <item name="zpubthird" type="462c0819:PsiDirectoryNode" />
+              <item name="sqlite" type="462c0819:PsiDirectoryNode" />
+              <item name="helper" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zpub_third" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zpub_third" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="zerogis" type="462c0819:PsiDirectoryNode" />
+              <item name="zpubthird" type="462c0819:PsiDirectoryNode" />
+              <item name="sqlite" type="462c0819:PsiDirectoryNode" />
+              <item name="method" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zpub_third" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zpub_third" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="zerogis" type="462c0819:PsiDirectoryNode" />
+              <item name="zpubthird" type="462c0819:PsiDirectoryNode" />
+              <item name="util" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-excluded-files" value="false" />
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="AndroidView" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="dart.analysis.tool.window.force.activate" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/lib/com/zerogis/zpubthird/sqlite/helper" />
+      <recent name="$PROJECT_DIR$/lib/com/zerogis/zpubthird/sqlite/method" />
+      <recent name="$PROJECT_DIR$/lib/com/zerogis/zpubbase/resource" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/lib/com/zerogis/zpubthird/sqlite/bean" />
+      <recent name="$PROJECT_DIR$/lib/com/zerogis/zpubthird/sqlite" />
+      <recent name="$PROJECT_DIR$/lib/com/zerogis/zpubthird/sqlite/constant" />
+      <recent name="$PROJECT_DIR$/lib/com/zerogis/zpubthird/util" />
+      <recent name="$PROJECT_DIR$/lib/com/zerogis/zpubbase/util" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="&lt;template&gt;" type="JUnit" default="true" selected="false">
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+    </configuration>
+    <configuration name="&lt;template&gt;" type="TestNG" default="true" selected="false">
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7b98d004-bb92-4923-bb22-285af62f9502" name="Default" comment="" />
+      <created>1568080239849</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1568080239849</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1680" height="956" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Messages" order="7" visible="true" weight="0.329849" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info id="Image Layers" order="2" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Flutter Performance" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Dart Analysis" order="7" weight="0.329849" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.36236933" />
+      <window_info anchor="right" id="Flutter Outline" order="3" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Designer" order="2" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2802198" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="right" id="Flutter Inspector" order="3" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.329849" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="2" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/lib/com/zerogis/zpubAtt/resource/ColorRes.dart" />
+    <entry file="file://$PROJECT_DIR$/lib/com/zerogis/zpubAtt/resource/StringRes.dart" />
+    <entry file="file://$PROJECT_DIR$/lib/com/zerogis/zpubAtt/manager/StateManager.dart" />
+    <entry file="file://$PROJECT_DIR$/lib/com/zerogis/zpubAtt/listener/HttpListener.dart" />
+    <entry file="file://$PROJECT_DIR$/lib/com/zerogis/zpubbase/util/DateUtil.dart" />
+    <entry file="file://$PROJECT_DIR$/lib/com/zerogis/zpubbase/util/DeviceUtil.dart" />
+    <entry file="file://$PROJECT_DIR$/lib/com/zerogis/zpubbase/util/PagerUtil.dart" />
+    <entry file="file://$PROJECT_DIR$/lib/com/zerogis/zpubbase/util/PermissionUtil.dart" />
+    <entry file="file://$PROJECT_DIR$/lib/com/zerogis/zpubbase/util/ScreenUtil.dart" />
+    <entry file="file://$PROJECT_DIR$/lib/com/zerogis/zpubbase/util/SPUtil.dart" />
+    <entry file="file://$PROJECT_DIR$/lib/com/zerogis/zpubbase/util/StringUtils.dart" />
+    <entry file="file://$PROJECT_DIR$/lib/com/zerogis/zpubbase/util/TemplateUtil.dart" />
+    <entry file="file://$PROJECT_DIR$/lib/com/zerogis/zpubbase/util/TimeWeekUtil.dart" />
+    <entry file="file://$PROJECT_DIR$/lib/com/zerogis/zpubbase/util/Util.dart" />
+    <entry file="file://$PROJECT_DIR$/lib/com/zerogis/zpubAtt/constant/StringValueConstant.dart" />
+    <entry file="file://$PROJECT_DIR$/lib/com/zerogis/zpubAtt/constant/MarginPaddingHeightConstant.dart" />
+    <entry file="file://$PROJECT_DIR$/lib/com/zerogis/zpubAtt/constant/DigitValueConstant.dart" />
+    <entry file="file://$PROJECT_DIR$/lib/com/zerogis/zpubbase/util/TimeUtil.dart" />
+    <entry file="file://$PROJECT_DIR$/lib/com/zerogis/zpubbase/util/PickerUtil.dart" />
+    <entry file="file://$PROJECT_DIR$/lib/com/zerogis/zpubAtt/util/ArrayUtil.dart" />
+    <entry file="file://$PROJECT_DIR$/lib/com/zerogis/zpubAtt/util/AssetsUtil.dart" />
+    <entry file="file://$PROJECT_DIR$/lib/com/zerogis/zpubAtt/util/StringUtil.dart" />
+    <entry file="file://$PROJECT_DIR$/lib/com/zerogis/zpubAtt/plugin/FuctionStateFulBase.dart" />
+    <entry file="file://$PROJECT_DIR$/../../../../../Android/env/flutter/.pub-cache/hosted/pub.flutter-io.cn/weui-0.0.5/lib/toast/index.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="612">
+          <caret line="40" column="15" lean-forward="true" selection-start-line="40" selection-start-column="15" selection-end-line="40" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/com/zerogis/zpubAtt/core/SysWidgetCreator.dart" />
+    <entry file="file://$PROJECT_DIR$/.packages">
+      <provider selected="true" editor-type-id="text-editor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore" />
+    <entry file="file://$PROJECT_DIR$/.metadata">
+      <provider selected="true" editor-type-id="text-editor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pubspec.lock">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="576">
+          <caret line="32" column="19" lean-forward="true" selection-start-line="32" selection-start-column="19" selection-end-line="32" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/com/zerogis/zpubAtt/slot/inter/InterfaceBase.dart" />
+    <entry file="file://$PROJECT_DIR$/lib/com/zerogis/zpubAtt/slot/impl/InterfaceBaseImpl.dart" />
+    <entry file="file://$PROJECT_DIR$/lib/com/zerogis/zpubAtt/slot/factory/WidgetsFactory.dart" />
+    <entry file="file://$PROJECT_DIR$/lib/com/zerogis/zpubAtt/slot/factory/PluginsFactory.dart" />
+    <entry file="file://$PROJECT_DIR$/lib/com/zerogis/zpubAtt/slot/factory/FunctionFactory.dart" />
+    <entry file="file://$PROJECT_DIR$/LICENSE">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zpub_third.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/com/zerogis/zpubthird/util/SPUtil.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="3" column="13" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/com/zerogis/zpubthird/util/PermissionUtil.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="5" column="14" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/com/zerogis/zpubthird/sqlite/method/SQLiteDBMethod.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="539">
+          <caret line="319" column="3" lean-forward="true" selection-start-line="319" selection-start-column="3" selection-end-line="319" selection-end-column="3" />
+          <folding>
+            <element signature="e#0#40#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/com/zerogis/zpubthird/sqlite/method/SQLiteDBMethodConstant.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/com/zerogis/zpubthird/sqlite/method/DBCreateOrUpgradeMethod.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="21" column="3" lean-forward="true" selection-start-line="21" selection-start-column="3" selection-end-line="21" selection-end-column="3" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/com/zerogis/zpubthird/sqlite/helper/SQLiteDBHelper.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="102" column="3" lean-forward="true" selection-start-line="102" selection-start-column="3" selection-end-line="102" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/com/zerogis/zpubthird/sqlite/exception/ExceptionMsg.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" column="18" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/com/zerogis/zpubthird/sqlite/constant/SQLiteConfigConstant.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="1" column="16" selection-start-line="1" selection-start-column="7" selection-end-line="1" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/com/zerogis/zpubthird/sqlite/constant/SQLiteConstant.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" column="5" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/com/zerogis/zpubthird/sqlite/bean/DBModel.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="9" column="1" lean-forward="true" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/zpub_third.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="15" column="6" lean-forward="true" selection-start-line="15" selection-start-column="6" selection-end-line="15" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../../../Android/env/flutter/.pub-cache/hosted/pub.flutter-io.cn/sqflite-1.1.6+4/example/analysis_options.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../../../Android/env/flutter/.pub-cache/hosted/pub.flutter-io.cn/sqflite-1.1.6+4/ios/Classes/SqflitePlugin.m">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-13978" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pubspec.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="16" column="1" selection-start-line="16" selection-start-column="1" selection-end-line="18" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
