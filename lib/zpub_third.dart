@@ -1,8 +1,5 @@
 library zpub_third;
 
-// 本地存储工具类
-export './com/zerogis/zpubthird/util/SPUtil.dart';
-
 //权限申请工具类
 export './com/zerogis/zpubthird/util/PermissionUtil.dart';
 

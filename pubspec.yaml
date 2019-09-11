@@ -11,7 +11,6 @@ dependencies:
   flutter:
     sdk: flutter
   # 第三方插件
-  shared_preferences: ^0.5.2
   permission_handler: ^3.0.1
   common_utils: ^1.1.1
   sqflite: ^1.1.6+4
