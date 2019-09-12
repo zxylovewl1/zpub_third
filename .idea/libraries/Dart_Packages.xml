@@ -121,13 +121,6 @@
             </list>
           </value>
         </entry>
-        <entry key="shared_preferences">
-          <value>
-            <list>
-              <option value="$PROJECT_DIR$/../../../../../Android/env/flutter/.pub-cache/hosted/pub.flutter-io.cn/shared_preferences-0.5.3+4/lib" />
-            </list>
-          </value>
-        </entry>
         <entry key="sky_engine">
           <value>
             <list>
@@ -139,13 +132,6 @@
           <value>
             <list>
               <option value="$PROJECT_DIR$/../../../../../Android/env/flutter/.pub-cache/hosted/pub.flutter-io.cn/source_span-1.5.5/lib" />
-            </list>
-          </value>
-        </entry>
-        <entry key="sqflite">
-          <value>
-            <list>
-              <option value="$PROJECT_DIR$/../../../../../Android/env/flutter/.pub-cache/hosted/pub.flutter-io.cn/sqflite-1.1.6+4/lib" />
             </list>
           </value>
         </entry>
@@ -167,13 +153,6 @@
           <value>
             <list>
               <option value="$PROJECT_DIR$/../../../../../Android/env/flutter/.pub-cache/hosted/pub.flutter-io.cn/string_scanner-1.0.4/lib" />
-            </list>
-          </value>
-        </entry>
-        <entry key="synchronized">
-          <value>
-            <list>
-              <option value="$PROJECT_DIR$/../../../../../Android/env/flutter/.pub-cache/hosted/pub.flutter-io.cn/synchronized-2.1.0+1/lib" />
             </list>
           </value>
         </entry>
@@ -238,13 +217,10 @@
       <root url="file://$PROJECT_DIR$/../../../../../Android/env/flutter/.pub-cache/hosted/pub.flutter-io.cn/permission_handler-3.2.2/lib" />
       <root url="file://$PROJECT_DIR$/../../../../../Android/env/flutter/.pub-cache/hosted/pub.flutter-io.cn/quiver-2.0.3/lib" />
       <root url="file://$PROJECT_DIR$/../../../../../Android/env/flutter/.pub-cache/hosted/pub.flutter-io.cn/rational-0.3.6/lib" />
-      <root url="file://$PROJECT_DIR$/../../../../../Android/env/flutter/.pub-cache/hosted/pub.flutter-io.cn/shared_preferences-0.5.3+4/lib" />
       <root url="file://$PROJECT_DIR$/../../../../../Android/env/flutter/.pub-cache/hosted/pub.flutter-io.cn/source_span-1.5.5/lib" />
-      <root url="file://$PROJECT_DIR$/../../../../../Android/env/flutter/.pub-cache/hosted/pub.flutter-io.cn/sqflite-1.1.6+4/lib" />
       <root url="file://$PROJECT_DIR$/../../../../../Android/env/flutter/.pub-cache/hosted/pub.flutter-io.cn/stack_trace-1.9.3/lib" />
       <root url="file://$PROJECT_DIR$/../../../../../Android/env/flutter/.pub-cache/hosted/pub.flutter-io.cn/stream_channel-2.0.0/lib" />
       <root url="file://$PROJECT_DIR$/../../../../../Android/env/flutter/.pub-cache/hosted/pub.flutter-io.cn/string_scanner-1.0.4/lib" />
-      <root url="file://$PROJECT_DIR$/../../../../../Android/env/flutter/.pub-cache/hosted/pub.flutter-io.cn/synchronized-2.1.0+1/lib" />
       <root url="file://$PROJECT_DIR$/../../../../../Android/env/flutter/.pub-cache/hosted/pub.flutter-io.cn/term_glyph-1.1.0/lib" />
       <root url="file://$PROJECT_DIR$/../../../../../Android/env/flutter/.pub-cache/hosted/pub.flutter-io.cn/test_api-0.2.5/lib" />
       <root url="file://$PROJECT_DIR$/../../../../../Android/env/flutter/.pub-cache/hosted/pub.flutter-io.cn/typed_data-1.1.6/lib" />
